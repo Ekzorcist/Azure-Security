@@ -1,2 +1,2 @@
 # Azure-Security
-Azure security assessment PowerShell scripts
+Azure security assessment scripts
